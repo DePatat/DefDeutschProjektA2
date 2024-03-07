@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url("Background2.PNG");
+    background-color: #25729e;;
+    color: rgb(red, rgb(46, 66, 177), blue)
+}
+
+a:link{
+    color: rgb(76, 19, 151)
+}
+
+a:visited{
+    color: rgb(159, 168, 78);
+}
+
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    color: rgb(126, 28, 28);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+img{
+    max-height: 220px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.arrow{
+        transform: rotate(45deg);
+    }
+
+h2{
+    padding-top: 0px;
+    font-size: 27px;
+}
