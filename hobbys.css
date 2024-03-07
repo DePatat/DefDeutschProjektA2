@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+html{
+    font-size: 18px;
+    font-family: 'Montserrat';
+    background-color: rgb(158, 238, 126);;
+    color: rgb(red, green, blue)
+}
+
+p{
+    line-height: 10px;
+}
+h1{
+    padding-left: 550px;
+    color: rgb(92, 8, 202);
+}
+
+.rubik{
+    padding-left: 610px;
+}
+.h2{
+    padding-left: 550px;
+}
+h2{
+    color: rgb(11, 167, 71);
+    padding-left: 166px;
+}
+
+a:link{
+    color: rgb(46, 46, 46)
+}
+
+a:visited{
+    color:rgb(20, 120, 133)
+}
+
+.wurfel{
+    padding-left: 690px;
+}
+
+.kampf{
+    padding-left: 20px;
+}
+img{
+    max-width: 420px;
+    max-height: 200px;
+}
+.pc{
+    padding-left: 220px;
+}
+
+.text{
+    padding-left: 50px;
+}
