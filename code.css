@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+html{
+    font-size: 18px;
+    font-family: 'Montserrat';
+    background-image: url("DefiniteBckground.jpg");
+    background-color: #cccccc;;
+    color: rgb(red, green, blue)
+}
+
+h1{
+    color: rgb(196, 199, 28);
+    font-size: 34px;
+}
+
+h2{
+    color: rgb(19, 126, 126);
+}
+
+a:link{
+    color: rgb(30, 156, 156)
+}
+
+a:visited{
+    color:rgb(19, 126, 126)
+}
